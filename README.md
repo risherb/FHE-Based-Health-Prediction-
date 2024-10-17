@@ -55,7 +55,3 @@ In a terminal, run:
 source .venv/bin/activate
 python3 app.py
 ```
-
-## Interacting with the application
-
-Open the given URL link (search for a line like `Running on local URL:  http://127.0.0.1:8888/`).
